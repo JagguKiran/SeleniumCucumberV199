@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		features="src/test/resources/features",
-		glue="com.verismaMRR.stepDefinitions",
+		glue={"com.verismaMRR.stepDefinitions","com.verismaMRR.hooks"},
 		dryRun=false,
 		monochrome=false,
 		plugin = {
