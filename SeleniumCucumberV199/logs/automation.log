@@ -1,4 +1,4 @@
-2026-06-18 03:34:34 [main] INFO  com.verismaMRR.stepDefinitions.LoginPageStepDefinition - Chrome Options Instantiation
-2026-06-18 03:34:34 [main] INFO  com.verismaMRR.stepDefinitions.LoginPageStepDefinition - Chrome Options setting or adding arguments
-2026-06-18 03:34:34 [main] INFO  com.verismaMRR.stepDefinitions.LoginPageStepDefinition - Merging Desired Capabilities with Chrome Options
-2026-06-18 03:34:35 [main] INFO  com.verismaMRR.stepDefinitions.LoginPageStepDefinition - Instantiating Chrome Browser
+2026-06-18 15:09:17 [main] INFO  com.verismaMRR.stepDefinitions.LoginPageStepDefinition - Chrome Options Instantiation
+2026-06-18 15:09:17 [main] INFO  com.verismaMRR.stepDefinitions.LoginPageStepDefinition - Chrome Options setting or adding arguments
+2026-06-18 15:09:17 [main] INFO  com.verismaMRR.stepDefinitions.LoginPageStepDefinition - Merging Desired Capabilities with Chrome Options
+2026-06-18 15:09:24 [main] INFO  com.verismaMRR.stepDefinitions.LoginPageStepDefinition - Instantiating Chrome Browser

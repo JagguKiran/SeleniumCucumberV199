@@ -5,7 +5,7 @@ Given user launches respective browser
 When user naviage to URL 
 	|https://opensource-demo.orangehrmlive.com/|
 	
-@T1
+@T1 @Smoke
 Scenario: Login to Application
 And user enters Email Id and Password  
 	|username|password|
@@ -17,7 +17,7 @@ And userclick on logout button
 Then Login Page Title should contain "OrangeHRM"  
 And close browser
 
-@T2
+@T2 @Regression
 Scenario Outline: Login Data Driven Approach 
 And user enters Email Id as "<email>" and Password as "<password>"  
 And click on login button 
